@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Srakshin
+# 👋 Hi, I’m @bhanuchandra2005
 
 -  I’m interested in **innovative tech** that brings meaningful change and challenges the status quo.
 -  I’m currently learning **Machine Learning, Data Science, and Web Development**—focused on precision and execution, much like a calculated move in a high-stakes scenario.
