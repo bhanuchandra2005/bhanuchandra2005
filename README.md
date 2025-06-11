@@ -6,6 +6,6 @@
 
 🤝 I love collaborating on projects that break barriers and drive innovation—especially those that create meaningful change.
 
-📫 Reach out to me on [LinkedIn](www.linkedin.com/in/bhanu-chandra-1b6929269) or email me at mbhanuchandra003@gmailcom.
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/bhanu-chandra-1b6929269) or email me at mbhanuchandra003@gmailcom.
 
 ⚡ Fun Fact: I believe in thoughtful execution over speed—always planning for the long game.
