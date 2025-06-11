@@ -14,23 +14,20 @@ I’m passionate about building innovative tech that solves real-world problems 
 🔭 I'm always looking to improve and contribute to projects that make a difference.  
 Fun fact: I believe in clean code, meaningful goals, and lifelong learning..
 
-### About Me
+### A Littele About Me
 
-I’m a student at **GRIET**, passionate about creating tech that addresses real-world challenges. I code at night 🦇 and build with purpose, striving to create **impactful solutions**. I approach every challenge with a mix of intelligence, strategy, and the right tools to get things done.
+🎓 Student at GRIET, passionate about solving real-world problems with tech. From late-night coding 🌙 to purposeful builds, I turn ideas into impact using smart thinking and the right tools
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Flask, Streamlit
-- **Databases**: MongoDB, MySQL
-- **Machine Learning**: TensorFlow, YOLO, OpenCV
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Frameworks**: React, Flask
+- **Databases**: PHP, MySQL
+- **Machine Learning**: TensorFlow, OpenCV
 - **Cloud**: AWS, Google Cloud
 
 ### 📚 Projects
 
-1. **Supe-Slayers**: A heritage-themed platform combining e-commerce, chatbots, and itinerary generators to explore India's culture.
-2. **TripTuner**: Personalizes travel packages, from car and room selections to guide matching.
-3. **Fall Detection**: Real-time fall detection using **YOLO** to alert caregivers and emergency services.
-4. **Text-to-Audio Translator**: Converts text into speech in 22 Indian languages, making language translation accessible.
+1. **Indian_Heritage**: A heritage-themed platform combining e-commerce, chatbots, and itinerary generators to explore India's culture.
 
 ---
