@@ -1,4 +1,4 @@
-👋 Hi, I'm @Bhanuchandra2005
+👋 Hi, I'm @bhanuchandra2005
 
 I’m passionate about building innovative tech that solves real-world problems and simplifies life.
 
