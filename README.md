@@ -1,4 +1,4 @@
-👋 Hello there, I’m Bhanu Chandra
+⚡ Bhanu Chandra — coding for change.
 
 💻 I love crafting solutions that merge creativity with code. I’m driven by a vision to build meaningful tech that simplifies complex problems.
 
