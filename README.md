@@ -1,26 +1,17 @@
-⚡ Bhanu Chandra — coding for change.
+👋 Hi, I'm @BhanuChandra2005
 
-💻 I love crafting solutions that merge creativity with code. I’m driven by a vision to build meaningful tech that simplifies complex problems.
+I’m passionate about building innovative tech that solves real-world problems and simplifies life.
 
-📊 Currently diving into **Data Science, Machine Learning, and Full-Stack Web Development**, blending data-driven thinking with clean design and robust functionality.
+- 🌱 I’m currently learning **Machine Learning, Data Science, and Full-Stack Web Development** — with a focus on writing clean, efficient code.
+- 💡 I enjoy solving complex problems and exploring how data can create meaningful impact.
+- 🤝 I’m open to collaboration on tech projects that challenge convention and deliver value.
+- 📫 How to reach me:  
+  [LinkedIn](https://www.linkedin.com/in/bhanu-chandra-1b6929269/) |  
+  📧 mbhanuchandra003@gmail.com  
+  📍 Based in Hyderabad, India
+- 🛠️ Tech Stack:  
+  `Python` · `NumPy` · `Pandas` · `Flask` · `React` · `SQL`
 
-🤖 Always excited to work on ideas that matter — from smart apps to AI-powered tools that improve lives.
-
-📫 Reach out to me:
-- [LinkedIn](https://www.linkedin.com/in/bhanu-chandra-1b6929269)
-- 📧 mbhanuchandra003@gmail.com
-- 🌍 Based in Hyderabad, India
-
-🛠️ Tools & Tech I work with:
-Python • Pandas • NumPy • Flask • React • SQL
-
----
-
-### 🧩 A Little More About Me
-
-I’m a builder at heart — curious, hands-on, and always learning.  
-Whether it’s writing clean backend APIs or designing smart data pipelines,  
-I enjoy making things work efficiently and beautifully.
-
-> “Every bug is a puzzle. Every project is an opportunity.”
+🔭 I'm always looking to improve and contribute to projects that make a difference.  
+Fun fact: I believe in clean code, meaningful goals, and lifelong learning.
 
