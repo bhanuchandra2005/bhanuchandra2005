@@ -6,8 +6,8 @@ I’m passionate about building innovative tech that solves real-world problems 
 - 💡 I enjoy solving complex problems and exploring how data can create meaningful impact.
 - 🤝 I’m open to collaboration on tech projects that challenge convention and deliver value.
 - 📫 How to reach me: https://www.linkedin.com/in/bhanu-chandra-1b6929269/
-  📧 mbhanuchandra003@gmail.com  
-  📍 Based in Hyderabad, India
+    📧 mbhanuchandra003@gmail.com  
+   📍 Based in Hyderabad, India
 - 🛠️ Tech Stack:  
   `Python` · `NumPy` · `Pandas` · `Flask` · `React` · `SQL`
 
