@@ -29,5 +29,7 @@ Fun fact: I believe in clean code, meaningful goals, and lifelong learning..
 ### 📚 Projects
 
 1. **Indian_Heritage**: A heritage-themed platform combining e-commerce, chatbots, and itinerary generators to explore India's culture.
+2. **Overseas-Airfare-Predictor**:It is a project that forecasts international flight ticket prices using machine learning.
+   
 
 ---
