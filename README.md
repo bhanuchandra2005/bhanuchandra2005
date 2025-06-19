@@ -14,7 +14,7 @@ I’m passionate about building innovative tech that solves real-world problems 
 🔭 I'm always looking to improve and contribute to projects that make a difference.  
 Fun fact: I believe in clean code, meaningful goals, and lifelong learning..
 
-### A Littele About Me
+### A Little About Me
 
 🎓 Student at GRIET, passionate about solving real-world problems with tech. From late-night coding 🌙 to purposeful builds, I turn ideas into impact using smart thinking and the right tools
 
